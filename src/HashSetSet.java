@@ -1,0 +1,2 @@
+public class HashSetSet<T> {
+}
